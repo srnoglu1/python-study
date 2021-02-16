@@ -1,4 +1,4 @@
-languages = ["python","java","javascrip,","c#"]
+languages = ["python","java","javascript,","c#"]
 result = languages
 result = type(languages)
 result = languages[2:]
