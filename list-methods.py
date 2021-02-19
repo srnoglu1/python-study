@@ -5,19 +5,19 @@
  sonuc = max(harfler)
  sonuc = min(harfler)
 
- #ekleme
+#ekleme
  sayilar.append(10) 
  sayilar.insert(3,4)
  sayilar.insert(-1,9)
  sayilar.insert(len(sayilar),50)
 
- #silme 
+#silme 
  sayilar.pop()
  sayilar.pop(0)
  sayilar.remove(8)
  harfler.remove("u")
 
- #sıralama
+#sıralama
  sayilar.sort()
  harfler.sort()
  sayilar.reverse()
