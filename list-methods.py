@@ -4,7 +4,8 @@
  sonuc = max(sayilar)
  sonuc = max(harfler)
  sonuc = min(harfler)
-
+ print(sonuc)
+ 
 #ekleme
  sayilar.append(10) 
  sayilar.insert(3,4)
@@ -27,4 +28,4 @@
  print(sayilar.index(66))
  print(sayilar.clear())
 
- print(sonuc)
+
