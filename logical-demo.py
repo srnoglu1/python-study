@@ -26,7 +26,6 @@ print("the number entered is a positive odd number.",result)
 # print("c is the largest number.",result) 
 
 
-
 # 4)(?) Check login with username and password information.
 
 _username = "srnoglu"
