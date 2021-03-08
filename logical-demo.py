@@ -14,16 +14,16 @@ print("the number entered is a positive odd number.",result)
 
 # 3)(?) Compare the 3 numbers entered in terms of magnitudes.
 
-# a = (input("1: "))
-# b = (input("2: "))
-# c = (input("3: "))
+a = (input("1: "))
+b = (input("2: "))
+c = (input("3: "))
 
-# result = (a>b) and (a>c)
-# print("a is the largest number.",result) 
-# result = (b>a) and (b>c)
-# print("b is the largest number.",result) 
-# result = (c>a) and (c>b)
-# print("c is the largest number.",result) 
+result = (a>b) and (a>c)
+print("a is the largest number.",result) 
+result = (b>a) and (b>c)
+print("b is the largest number.",result) 
+result = (c>a) and (c>b)
+print("c is the largest number.",result) 
 
 
 # 4)(?) Check login with username and password information.
